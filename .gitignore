@@ -1,2 +1,5 @@
 .env
 node_modules
+/public/uploads
+/uploads
+img_for_project
